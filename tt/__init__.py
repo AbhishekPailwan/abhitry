@@ -1,1 +1,1 @@
-from tt.tpack import *
+from prakmy.tpack import *
