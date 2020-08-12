@@ -1,1 +1,1 @@
-from tt.mypackage import tpack
+from abhitry-master.mypackage import tpack
